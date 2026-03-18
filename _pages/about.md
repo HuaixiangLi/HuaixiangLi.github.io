@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Huaixiang Li"
+excerpt: "Undergraduate researcher in catalysis and propane dehydrogenation (PDH)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Huaixiang Li, an undergraduate student in Chemical Engineering and Technology (Honors Program) at Kunming University of Science and Technology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on **propane dehydrogenation (PDH)**, particularly on **Ni-based catalysts**, **defect engineering**, and **structure–activity–stability relationships**. I am currently working on catalyst design strategies to enhance activity and stability under industrially relevant conditions.
+
+I have been involved in multiple research projects, including catalyst synthesis (ion exchange, impregnation, co-precipitation), material characterization, and performance evaluation. My current project aims to develop defect-engineered metal oxide catalysts for efficient PDH.
+
+You can also view my academic profile via <a href='https://scholar.google.com/citations?user=YOUR_ID'>Google Scholar</a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp; Project on defect-engineered catalysts for PDH submitted for undergraduate innovation program  
+- *2025.01*: &nbsp; Ongoing research on Ni-based catalysts for propane dehydrogenation  
+- *2024.11*: &nbsp; Started systematic research training in heterogeneous catalysis  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Preparation</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Defect engineering of Ni-based catalysts for propane dehydrogenation**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Huaixiang Li, *et al.*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Manuscript in preparation. Focus on boron-modified Ni/Al₂O₃ catalysts and their structure–activity relationships in PDH.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *More publications coming soon.*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* First-Class Academic Scholarship  
+- *2025.05* Provincial Third Prize, Energy Saving and Emission Reduction Competition  
+- *2024.12* National Scholarship  
+- *2024.09* Provincial Third Prize, Mathematical Contest in Modeling  
+- *2024* Multiple university-level scholarships and honors  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present*, B.E. in Chemical Engineering and Technology (Honors Program), Kunming University of Science and Technology  
+- *Expected Graduation: 2027.07*  
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *None currently*  
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2024.09*, Beijing Academy of Artificial Intelligence, China  
+- *2023 - Present*, Online tutor (Mathematics & Physics)

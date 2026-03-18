@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Huaixiang Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "ndergraduate researcher in Chemical Engineering at Kunming University of Science and Technology "
 repository               : "HuaixiangLi/HuaixiangLi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -16,9 +16,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Huaixiang Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate in Chemical Engineering | Catalysis | PDH |"
+  bio              : "Undergraduate in Chemical Engineering"
   location         : "Kunming, China"
-  employer         : 'Kunming University of Science and Technology '
+  employer         : #''
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "huaixianglee@gmail.com"

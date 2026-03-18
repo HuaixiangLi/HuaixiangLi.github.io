@@ -1,13 +1,17 @@
 
 <span class='anchor' id='about-me'></span>
 # Welcome!
-I am Huaixiang Li, an undergraduate student in Chemical Engineering and Technology (Honors Program) at Kunming University of Science and Technology.
+I am an undergraduate student in Chemical Engineering at 
+[Kunming University of Science and Technology](https://www.kmust.edu.cn).
 
-My research focuses on **propane dehydrogenation (PDH)**, particularly on **Ni-based catalysts**, **defect engineering**, and **structure–activity–stability relationships**. I am currently working on catalyst design strategies to enhance activity and stability under industrially relevant conditions.
+My research focuses on propane dehydrogenation (PDH), with particular interest in Ni-based catalysts, defect engineering, and structure–activity relationships.
 
-I have been involved in multiple research projects, including catalyst synthesis (ion exchange, impregnation, co-precipitation), material characterization, and performance evaluation. My current project aims to develop defect-engineered metal oxide catalysts for efficient PDH.
+I am currently working on catalyst design strategies for improving activity and stability under industrial conditions.
 
-You can also view my academic profile via <a href='https://scholar.google.com/citations?user=YOUR_ID'>Google Scholar</a>.
+You can find my CV here: 
+[Huaixiang Li’s Curriculum Vitae](files/CV.pdf). 
+
+If you are interested in my work, please feel free to contact me via email.
 
 
 # 🔥 News

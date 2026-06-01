@@ -120,7 +120,6 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
   margin-top: 3.5rem;
   padding: 2.2rem 1rem;
   border-top: 1px solid #e5e5e5;
-  text-align: center;
 ">
   <div style="
     font-size: 1.0rem;

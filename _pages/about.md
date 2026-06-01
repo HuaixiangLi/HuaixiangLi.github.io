@@ -109,20 +109,19 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 <div style="
   margin-top: 3.5rem;
-  padding: 2rem 1rem;
+  padding: 2.2rem 1rem;
   border-top: 1px solid #e5e5e5;
-  border-bottom: 1px solid #e5e5e5;
   text-align: center;
 ">
   <div style="
-    font-size: 1.8rem;
-    line-height: 1.55;
+    font-size: 1.65rem;
+    line-height: 1.6;
     font-style: italic;
     font-weight: 400;
     color: #555;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.4px;
   ">
-    I know I am not perfect, yet I aspire to explore the world<br>
-    and pursue meaningful science @Huaixiang Li
+    Still learning, still searching, still trying to turn<br>
+    small sparks into lasting light. @Huaixiang Li
   </div>
 </div>

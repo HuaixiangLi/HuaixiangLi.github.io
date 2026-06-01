@@ -2,7 +2,6 @@
 
 # Welcome!
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/profile.jpg' alt="Huaixiang Li" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 I am **Huaixiang Li**, an undergraduate student in Chemical Engineering and Technology at  

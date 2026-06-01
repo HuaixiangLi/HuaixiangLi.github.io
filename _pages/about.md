@@ -20,7 +20,7 @@ redirect_from:
 
 #  Wellcome！
 
-I am **Huaixiang Li**, an undergraduate student in **Chemical Engineering** at **Kunming University of Science and Technology**. My research focuses on **heterogeneous catalysis**, with particular interests in **light alkane dehydrogenation**, **CO<sub>2</sub> conversion**, **defect-controlled metal oxide catalysts**, and **in-situ spectroscopic characterization**.
+I am **Huaixiang Li**, an undergraduate student in **Chemical Engineering** at Kunming University of Science and Technology. My research focuses on **heterogeneous catalysis**, with particular interests in **light alkane dehydrogenation**, **CO<sub>2</sub> conversion**, **defect-controlled metal oxide catalysts**, and **in-situ spectroscopic characterization**.
 
 My current work centers on the rational design of non-noble metal catalysts by regulating active-site structures, surface defects, and metal–support interactions. I am especially interested in understanding how local coordination environments and electronic structures influence catalytic activity, selectivity, and long-term stability under reaction conditions.
 

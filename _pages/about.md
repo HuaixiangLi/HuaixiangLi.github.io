@@ -28,7 +28,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 - *2026.05*: &nbsp;Contributed to a review article on methanol as a key C1 platform molecule and its emerging applications.
 - *2026.04*: &nbsp;Completed a first-author manuscript on boron-regulated Ni-based catalysts for propane dehydrogenation.
-- *2025.12*: &nbsp;Participated in a mechanistic study of Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS.
+- *2026.04*: &nbsp;Mechanistic study on Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS was accepted.
 
 
 # 📝 Publications
@@ -47,7 +47,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 [Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation](/publications/ni-b-pdh/)
 
-**Huaixiang Li**, Tao Zhang, Zhenzhong Tao, Yulai Lin, Siling Zhou, Hao Wang*, Yubing Li*, Hedong He, and Yongming Luo.
+**Huaixiang Li**, Tao Zhang, Zhenzhong Tao, Yulai Lin, Siling Zhou, Hao Wang*, Yubing Li*, Dedong He, and Yongming Luo.
 
 *Manuscript under revision*
 

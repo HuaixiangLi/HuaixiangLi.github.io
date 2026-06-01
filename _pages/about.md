@@ -71,7 +71,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 <div class='paper-box-text' markdown="1">
 
-[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts] (href="https://doi.org/10.1016/j.cej.2026.175788")
+[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts] (https://doi.org/10.1016/j.cej.2026.175788")
 
 Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Dong, Xiaohua Cao*, and Yongming Luo.
 

@@ -21,8 +21,8 @@ redirect_from:
 #  Wellcome！
 
 I am **Huaixiang Li**, an undergraduate student in **Chemical Engineering** at **Kunming University of Science and Technology**. My research focuses on **heterogeneous catalysis**, with particular interests in **light alkane dehydrogenation**, **CO<sub>2</sub> conversion**, **defect-controlled metal oxide catalysts**, and **in-situ spectroscopic characterization**.
-
-My current work centers on the rational design of non-noble metal catalysts by regulating active-site structure, surface defects, and metal–support interactions. I am especially interested in understanding how local coordination environments and electronic structures influence catalytic activity, selectivity, and long-term stability under reaction conditions.
+My current work centers on the rational design of non-noble metal catalysts by regulating active-site structures, surface defects, and metal–support interactions. I am especially interested in understanding how local coordination environments and electronic structures influence catalytic activity, selectivity, and long-term stability under reaction conditions.
+You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang-Li.pdf). For academic discussions or potential research collaborations, please feel free to contact me by email.
 
 # 🔥 News
 
@@ -71,7 +71,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 <div class='paper-box-text' markdown="1">
 
-[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts](/https://doi.org/10.1016/j.cej.2026.175788/)
+[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts](https://doi.org/10.1016/j.cej.2026.175788)
 
 Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Dong, Xiaohua Cao*, and Yongming Luo.
 
@@ -103,7 +103,8 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 - **Characterization:** in-situ DRIFTS, catalyst structure–performance correlation, surface intermediate analysis.
 - **Scientific writing:** research manuscripts, review articles, graphical abstracts, and academic presentations.
 
-# 📫 Contact
 
-Please feel free to contact me for academic discussion or research collaboration in heterogeneous catalysis, light alkane dehydrogenation, CO<sub>2</sub> conversion, and in-situ spectroscopic characterization.
 
+<div style="text-align: center; margin-top: 45px; margin-bottom: 20px; font-size: 1.05rem; color: #555; font-style: italic;">
+  I may still be on the way, yet I choose to look deeper into every active site and farther toward a greater world. @Huaixiang Li
+</div>

@@ -1,236 +1,201 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-# Welcome!
+I am **Huaixiang Li**, an undergraduate student in **Chemical Engineering** at **Kunming University of Science and Technology**. My research interests lie in **heterogeneous catalysis**, with a particular focus on **light alkane dehydrogenation**, **CO<sub>2</sub> conversion**, **defect-controlled metal oxide catalysts**, and **in-situ spectroscopic characterization**.
 
-<div class='paper-box-text' markdown="1">
+My current research focuses on the rational design of non-noble metal catalysts by regulating active sites, surface defects, and metal–support interactions. I am particularly interested in understanding how local coordination environments, electronic structures, and defect sites influence catalytic activity, selectivity, and stability under reaction conditions.
 
-I am **Huaixiang Li**, an undergraduate student in Chemical Engineering and Technology at  
-[Kunming University of Science and Technology](https://www.kmust.edu.cn).
+I have worked on **boron-regulated Ni-based catalysts for propane dehydrogenation**, aiming to stabilize highly dispersed Ni species, suppress carbon deposition, and improve propylene selectivity. I have also contributed to a mechanistic study of **Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction**, where **in-situ DRIFTS** was used to investigate Ga<sup>δ+</sup>–H species and surface reaction intermediates.
 
-My research focuses on **heterogeneous catalysis**, especially **propane dehydrogenation (PDH)**, **Ni-based non-precious metal catalysts**, **defect engineering**, and **structure–activity relationships**.
+My broader research interests include **propane dehydrogenation**, **CO<sub>2</sub> hydrogenation**, **reverse water-gas shift reaction**, **methanol-centered C1 chemistry**, and **mechanism-guided catalyst design**.
 
-I am particularly interested in designing stable and selective catalysts by regulating **metal active sites**, **support defects**, **electronic structures**, and **metal–support interactions**. My current work mainly explores catalyst design strategies for improving activity, propylene selectivity, and resistance to carbon deposition under high-temperature PDH conditions.
-
-I am also interested in extending these catalyst design principles to **CO₂ valorization**, including the reverse water–gas shift reaction and CO₂ hydrogenation.
-
-You can find my CV here:  
-[Huaixiang Li’s Curriculum Vitae](files/CV.pdf)
-
-If you are interested in my research, please feel free to contact me via email.
-
-</div>
-</div>
-
-
-# 🔬 Research Interests
-
-- **Propane dehydrogenation**
-- **Ni-based non-precious metal catalysts**
-- **Defect engineering**
-- **Metal–support interactions**
-- **Structure–activity relationships**
-- **In-situ DRIFTS and reaction mechanism analysis**
-- **CO₂ valorization**
-- **Reverse water–gas shift reaction**
-
+<!-- 
+If you already have a Google Scholar profile, replace the empty link below with your own profile.
+Example:
+<a href='https://scholar.google.com/citations?user=YOUR_ID'>Google Scholar</a>
+-->
 
 # 🔥 News
 
-- *2026*: &nbsp; Recognized as Provincial “Five Merits” Student  
-- *2025*: &nbsp; First-author manuscript on boron-regulated Ni-based catalysts for PDH under peer review  
-- *2025*: &nbsp; Co-authored work on Gaδ⁺–H active sites for RWGS accepted by *Chemical Engineering Journal*  
-- *2025.04*: &nbsp; Project on defect-engineered catalysts for PDH supported by the Yunnan Provincial University Students’ Innovation and Entrepreneurship Fund  
-- *2025.01*: &nbsp; Ongoing research on Ni-based catalysts for propane dehydrogenation  
-- *2024.11*: &nbsp; Started systematic research training in heterogeneous catalysis  
+- *2026.05*: &nbsp;Contributed to a review article on methanol as a key C1 platform molecule and its emerging applications in sustainable carbon utilization.
+- *2026.04*: &nbsp;Completed a first-author manuscript on boron-regulated Ni-based catalysts for propane dehydrogenation.
+- *2025.12*: &nbsp;Participated in a mechanistic study of Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS.
+- *2025.09*: &nbsp;Started research on defect-controlled metal oxide catalysts for light alkane dehydrogenation and CO<sub>2</sub> conversion.
 
+# 📝 Publications
 
-# 📝 Publications 
+<!-- 
+论文展示说明：
+1. 把每篇文章的 TOC / graphical abstract 图片放到 images 文件夹中。
+2. 下面的 img src='images/pdh_toc.png' 就是图片路径。
+3. 如果图片名称不同，只需要改 img src 即可。
+4. badge 可以写 Under Revision, In Preparation, Review, Published 等。
+-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Peer Review</div><img src='images/pdh-b-ni-defect.png' alt="Boron-regulated Ni-based catalysts for PDH" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Under Revision</div>
+<img src='images/pdh_toc.png' alt="TOC figure for boron-regulated Ni catalyst for propane dehydrogenation" width="100%">
+</div>
+</div>
+
 <div class='paper-box-text' markdown="1">
 
-**Stabilizing Ni²⁺ sites via boron-induced structural modulation for propane dehydrogenation**
+[Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation](#)
 
-**Huaixiang Li**, T. Zhang, Z. Tao, Y. Ling, S. Zhong, H. Wang, Y. Li, H. He, and Y. Luo
+**Huaixiang Li**, et al.
 
-*Catalysis Science & Technology*, 2025. In peer review.
+**Status**: Under revision
 
-- Developed boron-modified Ni-based catalysts for propane dehydrogenation.
-- Investigated how boron-induced structural modulation stabilizes highly dispersed Ni²⁺ species.
-- Explored the relationship between electronic regulation, geometric site isolation, coke suppression, and PDH stability.
-
-[Project](#defect-controlled-metal-oxide-catalysts-for-propane-dehydrogenation)
+- This work focuses on the rational design of non-noble metal catalysts for propane dehydrogenation.
+- Boron regulation is used to modulate the electronic and geometric environment of Ni species.
+- The catalyst design aims to stabilize highly dispersed Ni sites, improve propylene selectivity, and suppress carbon deposition.
+- This study highlights the role of **B–Ni–defect synergy** in improving the stability of Ni-based catalysts under high-temperature reaction conditions.
 
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">In Preparation</div>
+<img src='images/rwgs_toc.png' alt="TOC figure for Ga/Al2O3 catalyst for reverse water-gas shift reaction" width="100%">
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='images/rwgs-ga-h.png' alt="Ga-H active sites for RWGS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Gaδ⁺–H active sites-driven reverse water–gas shift reaction with high CO selectivity**
+[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts](#)
 
-Z. Tao, **Huaixiang Li**, H. He, Z. Huang, J. Liang, J. Dong, X. Cao, and Y. Luo
+**Huaixiang Li**, et al.
 
-*Chemical Engineering Journal*, 2025. Accepted.
+**Status**: Manuscript in preparation
 
-- Identified Gaδ⁺–H species as key active sites for the reverse water–gas shift reaction over Ga/Al₂O₃ catalysts.
-- Used in-situ DRIFTS analysis to study the dynamic formation and consumption of surface intermediates.
-- Demonstrated highly selective CO formation over a broad temperature range.
-
-[Paper](DOI_OR_JOURNAL_LINK_HERE) | [PDF](files/rwgs-ga-h-cej.pdf)
+- This work investigates Ga-based catalysts for the reverse water-gas shift reaction.
+- My contribution mainly focuses on the design and analysis of **in-situ DRIFTS** experiments.
+- In-situ spectroscopic results suggest that Ga<sup>δ+</sup>–H species can be dynamically generated under H<sub>2</sub> atmosphere and consumed during CO<sub>2</sub> activation.
+- The study provides mechanistic insights into CO<sub>2</sub> activation and high CO selectivity over Ga/Al<sub>2</sub>O<sub>3</sub> catalysts.
 
 </div>
 </div>
 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Review</div>
+<img src='images/methanol_toc.png' alt="TOC figure for methanol as a C1 platform molecule" width="100%">
+</div>
+</div>
 
-- *More publications coming soon.*
-
-
-# 🧪 Research Experience
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pdh-project.png' alt="PDH project" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[Synthesis Strategies and Emerging Applications of Methanol as a Key C1 Platform Molecule](#)
+
+**Huaixiang Li**, et al.
+
+**Status**: Review article
+
+- This review summarizes synthesis strategies and emerging applications of methanol as a versatile C1 platform molecule.
+- The topics include CO<sub>2</sub> hydrogenation, methanol synthesis, downstream conversion, and sustainable carbon utilization.
+- The review discusses catalyst design principles, reaction pathways, and future opportunities in methanol-centered C1 chemistry.
+
+</div>
+</div>
+
+<!-- 
+如果你后续有正式 DOI、期刊链接、GitHub 或 Supplementary Information，可以把上面的 (#) 替换成真实链接。
+例如：
+[Paper Title](https://doi.org/xxxxx)
+-->
+
+# 🔬 Research Projects
 
 ## Defect-Controlled Metal Oxide Catalysts for Propane Dehydrogenation
 
-*Student Researcher | Supervisor: Prof. Hedong He*  
-*Apr. 2025 - Present*
+This project focuses on the rational design of non-noble metal catalysts for propane dehydrogenation. The main objective is to improve catalyst stability and propylene selectivity by regulating active-site dispersion, surface defects, and metal–support interactions.
 
-This project focuses on the design of high-performance non-precious metal catalysts for propane dehydrogenation. I investigate how defect engineering, support acidity modulation, and boron-induced structural regulation influence the dispersion, valence state, and stability of Ni active sites.
+Key topics include:
 
-My work includes catalyst synthesis, activity evaluation, structural characterization, and mechanism analysis. I have used techniques including **XRD, XPS, H₂-TPR, Raman, UV–Vis, EPR, O₂-TPO, NH₃-TPD, and in-situ DRIFTS** to study catalyst structure, oxygen vacancies, metal valence states, carbon deposition behavior, and reaction mechanisms.
+- Stabilization of highly dispersed Ni species under high-temperature reaction conditions.
+- Boron-assisted modulation of the electronic structure and local coordination environment of Ni sites.
+- Suppression of carbon deposition through geometric site isolation and defect regulation.
+- Structure–performance relationships in non-noble metal catalysts for light alkane dehydrogenation.
 
-</div>
-</div>
+## Ga-Based Catalysts for Reverse Water-Gas Shift Reaction
 
+This project investigates Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction, which converts CO<sub>2</sub> and H<sub>2</sub> into CO and H<sub>2</sub>O. CO produced from RWGS can serve as an important feedstock for syngas chemistry and downstream carbon utilization.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rwgs-project.png' alt="RWGS project" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+My work mainly involves in-situ spectroscopic characterization and mechanistic analysis. In particular, in-situ DRIFTS was used to track the reversible formation of Ga<sup>δ+</sup>–H species under H<sub>2</sub> atmosphere and their consumption during CO<sub>2</sub> activation.
 
-## Ga/Al₂O₃ Catalysts for Reverse Water–Gas Shift Reaction
+## CO<sub>2</sub> Conversion and Methanol-Centered C1 Chemistry
 
-*Research Contributor*
+I am also interested in catalytic CO<sub>2</sub> conversion and methanol-centered C1 chemistry. Methanol is a versatile platform molecule that connects CO<sub>2</sub> hydrogenation, olefin production, hydrogen storage, and other value-added chemical transformations.
 
-In this project, I contributed to the mechanistic investigation of Ga-based catalysts for CO₂ hydrogenation to CO. My work focused on in-situ DRIFTS analysis, especially the identification of dynamic surface species under H₂ and CO₂-containing atmospheres.
+My research interests in this direction include:
 
-The study revealed that Gaδ⁺–H species can be generated under hydrogen atmosphere and consumed during CO₂ activation, providing mechanistic evidence for the role of Ga–H species in highly selective RWGS catalysis.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/water-purification.png' alt="Functional materials for water purification" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Functional Materials for Water Purification
-
-*Core Member | Supervisor: Prof. Hedong He*  
-*Sept. 2024 - Present*
-
-This project explores the transformation of industrial waste into functional water purification materials. I participated in material preparation, performance testing, and structure–property analysis, gaining broader experience in functional material design and characterization.
-
-</div>
-</div>
-
+- Catalyst design for CO<sub>2</sub> hydrogenation.
+- Methanol synthesis and downstream conversion.
+- Defect engineering and interface regulation in oxide-supported catalysts.
+- Reaction mechanism analysis using in-situ characterization techniques.
 
 # 🎖 Honors and Awards
 
-- *2026*: &nbsp; Provincial “Five Merits” Student  
-- *2026*: &nbsp; Second-Class Scholarship, KUST  
-- *2025*: &nbsp; First-Class Academic Scholarship  
-- *2025*: &nbsp; Innovation and Entrepreneurship Award, KUST  
-- *2025*: &nbsp; Third Prize, National University Students’ Chemical Engineering Experiment Competition, Southwest China Division  
-- *2025*: &nbsp; Provincial Third Prize, Energy Saving and Emission Reduction Competition  
-- *2024.12*: &nbsp; National Scholarship  
-- *2024*: &nbsp; He Dong Scholarship, KUST  
-- *2024.09*: &nbsp; Provincial Third Prize, Mathematical Contest in Modeling  
-- *2023 - 2026*: &nbsp; Multiple university-level scholarships and honors  
+<!-- 
+这里建议只写真实奖项。
+如果暂时不想放，可以保留注释，或者直接删掉本节。
+-->
 
+- *2026*: Undergraduate research project on non-noble metal catalysts for propane dehydrogenation.
+- *2025*: Research training in heterogeneous catalysis and in-situ spectroscopic characterization.
+- *2024*: Academic coursework and laboratory training in chemical engineering and catalysis.
 
-# 📖 Educations
+# 📖 Education
 
-- *2023.09 - Present*, B.E. in Chemical Engineering and Technology, Honors Program, Kunming University of Science and Technology  
-- *Expected Graduation: 2027.07*  
+- *2022.09 - Present*, **B.Eng. in Chemical Engineering**, Kunming University of Science and Technology, Kunming, China.
 
-Relevant coursework: Physical Chemistry, Organic Chemistry, Inorganic and Analytical Chemistry, Principles of Chemical Engineering, Chemical Engineering Thermodynamics, Chemical Process Modeling, Industrial Catalysis, and Instrumental Analysis.
+# 🧪 Research Skills
 
+- **Catalyst synthesis**: supported metal catalysts, metal oxide catalysts, defect-controlled catalyst design.
+- **Catalytic reactions**: propane dehydrogenation, reverse water-gas shift reaction, CO<sub>2</sub> hydrogenation.
+- **Characterization techniques**: in-situ DRIFTS, surface intermediate analysis, catalyst structure–performance correlation.
+- **Mechanistic analysis**: active-site identification, coke suppression, defect-mediated reaction pathways.
+- **Scientific writing**: research manuscripts, review articles, graphical abstracts, and presentation materials.
 
-# 🧰 Skills
+# 💬 Presentations
 
-- **Catalyst synthesis and testing**: impregnation, ion exchange, co-precipitation, catalyst activity evaluation  
-- **Characterization**: XRD, XPS, H₂-TPR, NH₃-TPD, O₂-TPO, Raman, UV–Vis, EPR, in-situ DRIFTS  
-- **Mechanistic analysis**: structure–activity relationships, coke deposition analysis, surface intermediate identification, active-site evolution  
-- **Visualization**: Diamond, Cinema 4D  
-- **Languages**: Chinese, English  
+<!-- 
+可以添加组会汇报、会议海报、学术报告等。
+-->
 
-
-# 💬 Invited Talks
-
-- *None currently*  
-
-
-# 💻 Internships
-
-- *2025.03 - Present*, Data Annotator, Beijing Academy of Artificial Intelligence, China  
-- *2025.01 - Present*, Founder & Tutor, Online Tutoring Initiative  
-
+- Presentation on boron-regulated Ni-based catalysts for propane dehydrogenation.
+- Presentation on Ga/Al<sub>2</sub>O<sub>3</sub> catalysts and Ga<sup>δ+</sup>–H species in the reverse water-gas shift reaction.
+- Presentation on methanol-centered C1 chemistry and CO<sub>2</sub> utilization.
 
 # 📫 Contact
 
-Email: [huaixianglee@gmail.com](mailto:huaixianglee@gmail.com)
-
-I welcome discussions on heterogeneous catalysis, propane dehydrogenation, CO₂ valorization, catalyst characterization, and related research topics.
-
+Please feel free to contact me for academic discussion or research collaboration in heterogeneous catalysis, light alkane dehydrogenation, CO<sub>2</sub> conversion, and in-situ spectroscopic characterization.
 
 <!-- 
-==========================
-需要你补充或修改的内容
-==========================
-
-1. 头像图片：
-   请放入 images/profile.jpg
-   建议使用正式一点的半身照或实验室照片，不建议生活照。
-
-2. PDH 一作论文图片：
-   请放入 images/pdh-b-ni-defect.png
-   建议使用你之前做的 B–Ni–Defect 协同机制图，最适合放在主页。
-
-3. RWGS 论文图片：
-   请放入 images/rwgs-ga-h.png
-   建议使用 Gaδ⁺–H active sites 机制图、DRIFTS 示意图，或者论文 graphical abstract。
-
-4. 研究经历图片：
-   images/pdh-project.png
-   images/rwgs-project.png
-   images/water-purification.png
-   如果暂时没有图，可以先把这些图片路径都替换成 images/500x300.png。
-
-5. RWGS 论文链接：
-   当前代码里是：
-   [Paper](DOI_OR_JOURNAL_LINK_HERE)
-   等论文正式上线后，把 DOI_OR_JOURNAL_LINK_HERE 替换为真实 DOI 链接。
-
-6. PDF 文件：
-   如果你想让别人点击下载论文 PDF，请把 PDF 放在：
-   files/rwgs-ga-h-cej.pdf
-   如果论文还没有正式 PDF，可以先删除：
-   | [PDF](files/rwgs-ga-h-cej.pdf)
-
-7. PDH 一作论文：
-   现在建议保持 In Peer Review，不要放期刊链接。
-   等论文接收后，可以改成：
-   [Paper](真实 DOI 链接) | [PDF](files/pdh-b-ni-defect.pdf)
-
-8. Invited Talks：
-   你现在没有 invited talks，保留 “None currently” 是可以的。
-   如果你觉得不好看，也可以直接删掉整个 Invited Talks 部分。
-
-9. Internships：
-   如果你希望主页更“纯学术”，可以把 Online Tutoring Initiative 删除。
-   如果你想展示综合能力，可以保留。
-
-10. 如果图片显示太大或太小：
-    你只需要统一把图片裁剪成 500×300 或 800×480 的比例，页面就会整齐很多。
+Example:
+Email: your_email@example.com  
+Google Scholar: https://scholar.google.com/citations?user=YOUR_ID  
+ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX
 -->
 ```

@@ -121,7 +121,6 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
     color: #555;
     letter-spacing: 0.5px;
   ">
-    I know I am not perfect, yet I aspire to explore the world<br>
-    and pursue meaningful science. @Huaixiang Li
+    I know I am not perfect, yet I aspire to explore the world and pursue meaningful science. @Huaixiang Li
   </div>
 </div>

@@ -105,7 +105,5 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 Please feel free to contact me for academic discussion or research collaboration in heterogeneous catalysis, light alkane dehydrogenation, CO<sub>2</sub> conversion, and in-situ spectroscopic characterization.
 Email: huaixianglee@gmail.com
-Google Scholar: https://scholar.google.com/citations?user=YOUR_ID
-ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX
--->
-```
+Google Scholar: https://scholar.google.com/citations?user=YOUR_ID&user=PxhstAcAAAAJ
+

@@ -60,7 +60,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">In Preparation</div>
+<div class="badge">Accept</div>
 <a href="https://doi.org/10.1016/j.cej.2026.175788">
 <img src='images/ga_rwgs_toc.png' alt="Ga/Al2O3 catalyst for reverse water-gas shift reaction" width="100%">
 </a>
@@ -73,7 +73,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Dong, Xiaohua Cao*, and Yongming Luo.
 
-*Accept*
+*Accept by Chemical Engineering Journal*
 
 - **Research focus:** Mechanistic investigation of Ga-based catalysts for the reverse water-gas shift reaction.
 - **My contribution:** Design and analysis of in-situ DRIFTS experiments to track surface intermediates and Ga<sup>δ+</sup>–H species.

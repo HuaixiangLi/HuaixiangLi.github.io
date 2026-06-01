@@ -28,7 +28,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 - *2026.05*: &nbsp;Contributed to a review article on methanol as a key C1 platform molecule and its emerging applications.
 - *2026.04*: &nbsp;Completed a first-author manuscript on boron-regulated Ni-based catalysts for propane dehydrogenation.
-- *2026.04*: &nbsp;Mechanistic study on Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS was accepted.
+- *2026.04*: &nbsp;Mechanistic study on Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS was accepted.🎉
 
 
 # 📝 Publications
@@ -71,11 +71,11 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 <div class='paper-box-text' markdown="1">
 
-[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts] (/https://doi.org/10.1016/j.cej.2026.175788/)
+[Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts](/https://doi.org/10.1016/j.cej.2026.175788/)
 
 Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Dong, Xiaohua Cao*, and Yongming Luo.
 
-*Accept by Chemical Engineering Journal*
+*Accept by Chemical Engineering Journal.*
 
 - **Research focus:** Mechanistic investigation of Ga-based catalysts for the reverse water-gas shift reaction.
 - **My contribution:** Design and analysis of in-situ DRIFTS experiments to track surface intermediates and Ga<sup>δ+</sup>–H species.

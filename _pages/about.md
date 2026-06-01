@@ -36,7 +36,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 <div>
 <div class="badge">Under Revision</div>
 <a href="/publications/ni-b-pdh/">
-<img src='images/graphical abstract.tif' alt="Boron-regulated Ni-based catalyst for propane dehydrogenation" width="100%">
+<img src='images/ni_b_pdh_toc.png' alt="Boron-regulated Ni-based catalyst for propane dehydrogenation" width="100%">
 </a>
 </div>
 </div>

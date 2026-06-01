@@ -107,6 +107,21 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 
 
-<div style="text-align: center; margin-top: 45px; margin-bottom: 20px; font-size: 1.05rem; color: #555; font-style: italic;">
-  I may still be on the way, yet I choose to look deeper into every active site and farther toward a greater world. @Huaixiang Li
+---
+<div style="
+  margin: 2.5rem 0 0 0;
+  padding: 2.2rem 1.2rem;
+  text-align: center;
+">
+  <div style="
+    font-size: 1.65rem;
+    line-height: 1.6;
+    font-style: italic;
+    font-weight: 400;
+    color: #555;
+    letter-spacing: 0.5px;
+  ">
+    I know I am not perfect, yet I aspire to explore the world<br>
+    and pursue meaningful science. @Huaixiang Li
+  </div>
 </div>

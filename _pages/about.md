@@ -95,14 +95,6 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 - *2024*, **Third Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, Yunnan Provincial Division.
 - *2025*, **First-class Scholarship**, Kunming University of Science and Technology.（Top 1%）
 
-
-# 🔬 Research Interests
-
-- **Propane dehydrogenation:** non-noble metal catalysts, active-site isolation, coke suppression, and catalyst stability.
-- **CO<sub>2</sub> conversion:** reverse water-gas shift reaction, CO<sub>2</sub> hydrogenation, and C1 chemistry.
-- **Defect-controlled catalysis:** oxygen vacancies, metal–support interactions, and surface coordination regulation.
-- **In-situ characterization:** in-situ DRIFTS, surface intermediate analysis, and mechanism-guided catalyst design.
-
 # 📖 Educations
 
 - *2022.09 - Present*, **B.Eng. in Chemical Engineering**, Kunming University of Science and Technology, Kunming, China.
@@ -120,15 +112,16 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
   margin-top: 3.5rem;
   padding: 2.2rem 1rem;
   border-top: 1px solid #e5e5e5;
+  text-align: center;
 ">
   <div style="
-    font-size: 0.8rem;
-    line-height: 1.6;
+    font-size: 0.85rem;
+    line-height: 1.7;
     font-style: italic;
     font-weight: 400;
     color: #555;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.3px;
   ">
-    Still learning, still searching, still trying to turn small sparks into lasting light.@Huaixiang Li
+    Still learning, still searching, still trying to turn small sparks into lasting light. @Huaixiang Li
   </div>
 </div>

@@ -24,7 +24,7 @@ I am **Huaixiang Li**, an undergraduate student in **Chemical Engineering** at *
 
 My current work centers on the rational design of non-noble metal catalysts by regulating active-site structures, surface defects, and metal–support interactions. I am especially interested in understanding how local coordination environments and electronic structures influence catalytic activity, selectivity, and long-term stability under reaction conditions.
 
-You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang Li.pdf). For academic discussions or potential research collaborations, please feel free to contact me by email.
+You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang Li.pdf/). For academic discussions or potential research collaborations, please feel free to contact me by email.
 
 # 🔥 News
 

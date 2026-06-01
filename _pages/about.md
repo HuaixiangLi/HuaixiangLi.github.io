@@ -121,7 +121,6 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
     color: #555;
     letter-spacing: 0.4px;
   ">
-    Still learning, still searching, still trying to turn<br>
-    small sparks into lasting light. @Huaixiang Li
+    Still learning, still searching, still trying to turn small sparks into lasting light. @Huaixiang Li
   </div>
 </div>

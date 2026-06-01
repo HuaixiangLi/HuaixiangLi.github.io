@@ -103,7 +103,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 - **Defect-controlled catalysis:** oxygen vacancies, metal–support interactions, and surface coordination regulation.
 - **In-situ characterization:** in-situ DRIFTS, surface intermediate analysis, and mechanism-guided catalyst design.
 
-# 📖 Education
+# 📖 Educations
 
 - *2022.09 - Present*, **B.Eng. in Chemical Engineering**, Kunming University of Science and Technology, Kunming, China.
 
@@ -122,7 +122,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
   border-top: 1px solid #e5e5e5;
 ">
   <div style="
-    font-size: 1.0rem;
+    font-size: 0.8rem;
     line-height: 1.6;
     font-style: italic;
     font-weight: 400;

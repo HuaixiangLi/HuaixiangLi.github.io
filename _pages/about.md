@@ -61,7 +61,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 <div class='paper-box-image'>
 <div>
 <div class="badge">In Preparation</div>
-<a href="/publications/ga-rwgs/">
+<a href="https://doi.org/10.1016/j.cej.2026.175788">
 <img src='images/ga_rwgs_toc.png' alt="Ga/Al2O3 catalyst for reverse water-gas shift reaction" width="100%">
 </a>
 </div>

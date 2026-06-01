@@ -115,7 +115,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
   text-align: center;
 ">
   <div style="
-    font-size: 0.85rem;
+    font-size: 1.2rem;
     line-height: 1.7;
     font-style: italic;
     font-weight: 400;

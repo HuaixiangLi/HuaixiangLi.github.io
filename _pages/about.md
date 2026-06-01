@@ -51,7 +51,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 
 <a class="paper-title" href="/publications/ni-b-pdh/">Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation</a>
 
-**Huaixiang Li**, Yubing Li, Hedong He, et al.
+**Huaixiang Li**, Tao Zhang, Zhenzhong Tao, Yulai Lin, Siling Zhou, Hao Wang*, Yubing Li*, Dengdong He and Yongming Luo.
 
 <div class="paper-meta">
 Manuscript under revision
@@ -82,7 +82,7 @@ Manuscript under revision
 
 <a class="paper-title" href="/publications/ga-rwgs/">Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts</a>
 
-**Huaixiang Li**, et al.
+Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Dong, Xiaohua Cao*, Yongming Luo.
 
 <div class="paper-meta">
 Manuscript in preparation

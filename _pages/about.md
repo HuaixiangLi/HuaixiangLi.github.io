@@ -1,4 +1,3 @@
-```markdown
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
@@ -190,4 +189,3 @@ I independently manage an online tutoring initiative in mathematics and physics,
 Email: huaixianglee@gmail.com
 
 I welcome discussions on heterogeneous catalysis, propane dehydrogenation, CO₂ valorization, catalyst characterization, and related research topics.
-```

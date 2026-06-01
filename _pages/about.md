@@ -153,7 +153,7 @@ Manuscript in preparation
 </div>
 
 <div class="paper-links">
-<a href="/publications/ga-rwgs/">Paper Page</a>
+<a href="https://doi.org/10.1016/j.cej.2026.175788">Paper Page</a>
 <a href="/publications/ga-rwgs/#toc">TOC</a>
 </div>
 

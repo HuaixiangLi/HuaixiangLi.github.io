@@ -107,20 +107,22 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 
 
----
 <div style="
-  margin: 2.5rem 0 0 0;
-  padding: 2.2rem 1.2rem;
+  margin-top: 3.5rem;
+  padding: 2rem 1rem;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
   text-align: center;
 ">
   <div style="
-    font-size: 1.65rem;
-    line-height: 1.6;
+    font-size: 1.8rem;
+    line-height: 1.55;
     font-style: italic;
     font-weight: 400;
     color: #555;
     letter-spacing: 0.5px;
   ">
-    I know I am not perfect, yet I aspire to explore the world and pursue meaningful science. @Huaixiang Li
+    I know I am not perfect, yet I aspire to explore the world<br>
+    and pursue meaningful science @Huaixiang Li
   </div>
 </div>

@@ -99,7 +99,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 [Methanol Bridges H<sub>2</sub> Storage and Production with CO<sub>2</sub>-to-Hydrocarbon Chemicals](#)
 
-Hetao Gang, Futao Li, Tao Zhang, Mengheng Wang, Zijun Huang, Yingbin Zhang, Zhaochun Ma, Luqian Huang, **Huaixiang Li**, Yubing Li, Dedong He, Kang Cheng and Yongming Luo. 
+Hetao Gang, Futao Li, Tao Zhang, Mengheng Wang, Zijun Huang, Yingbin Zhang, Zhaochun Ma, Luqian Huang, **Huaixiang Li**, Yubing Li*, Dedong He, Kang Cheng* and Yongming Luo*. 
 
 *Submitted to Coordination Chemistry Reviews*
 

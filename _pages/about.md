@@ -28,7 +28,7 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 
 # 🔥 News
 
-- *2026.05*: &nbsp;Contributed to a review article on methanol as a key C1 platform molecule and its emerging applications.
+- *2026.06*: &nbsp;Our review article, “Methanol Bridges H<sub>2</sub> Storage and Production with CO<sub>2</sub>-to-Hydrocarbon Chemicals,” was submitted to *Coordination Chemistry Reviews*.
 - *2026.04*: &nbsp;Completed a first-author manuscript on boron-regulated Ni-based catalysts for propane dehydrogenation.
 - *2026.04*: &nbsp;Mechanistic study on Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS was accepted.🎉
 
@@ -82,6 +82,30 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 - **Research focus:** Mechanistic investigation of Ga-based catalysts for the reverse water-gas shift reaction.
 - **My contribution:** Design and analysis of in-situ DRIFTS experiments to track surface intermediates and Ga<sup>δ+</sup>–H species.
 - **Significance:** This study reveals the dynamic generation and consumption of Ga<sup>δ+</sup>–H species during CO<sub>2</sub> activation, providing mechanistic insight into the high CO selectivity of Ga/Al<sub>2</sub>O<sub>3</sub> catalysts.
+
+</div>
+</div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Submitted</div>
+<a href="#">
+<img src='images/methanol_ccr_toc.png' alt="Methanol bridges hydrogen storage and CO2-to-hydrocarbon chemicals" width="100%">
+</a>
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Methanol Bridges H<sub>2</sub> Storage and Production with CO<sub>2</sub>-to-Hydrocarbon Chemicals](#)
+
+Hetao Gang, Futao Li, Tao Zhang, Mengheng Wang, Zijun Huang, Yingbin Zhang, Zhaochun Ma, Luqian Huang, **Huaixiang Li**, Yubing Li, Dedong He, Kang Cheng and Yongming Luo. 
+
+*Submitted to Coordination Chemistry Reviews*
+
+- **Research focus:** Methanol-centered pathways connecting H<sub>2</sub> storage, H<sub>2</sub> production, and CO<sub>2</sub>-to-hydrocarbon chemistry.
+- **Key idea:** Methanol can serve as a versatile C1 platform molecule that bridges hydrogen utilization and carbon-containing chemical production.
+- **Significance:** This review summarizes emerging strategies and opportunities for methanol-mediated sustainable energy and carbon conversion systems.
 
 </div>
 </div>

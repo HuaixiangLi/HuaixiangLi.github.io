@@ -30,7 +30,7 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 
 - *2026.06*: &nbsp;Review article “Methanol Bridges H<sub>2</sub> Storage and Production with CO<sub>2</sub>-to-Hydrocarbon Chemicals” was submitted to *Coordination Chemistry Reviews*.
 - *2026.04*: &nbsp;Completed a first-author manuscript on boron-regulated Ni-based catalysts for propane dehydrogenation.
-- *2026.04*: &nbsp;Mechanistic study on Ga/Al<sub>2</sub>O<sub>3</sub> catalysts for the reverse water-gas shift reaction using in-situ DRIFTS was accepted.🎉
+- *2026.04*: &nbsp;Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts was accepted by *Chemical Engineering Journal*.🎉
 
 
 # 📝 Publications

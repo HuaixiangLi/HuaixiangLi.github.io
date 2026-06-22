@@ -85,30 +85,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 </div>
 </div>
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">Submitted</div>
-<a href="#">
-<img src='images/methanol_ccr_toc.png' alt="Methanol bridges hydrogen storage and CO2-to-hydrocarbon chemicals" width="100%">
-</a>
-</div>
-</div>
 
-<div class='paper-box-text' markdown="1">
-
-[Methanol Bridges H<sub>2</sub> Storage and Production with CO<sub>2</sub>-to-Hydrocarbon Chemicals](#)
-
-Hetao Gang, Futao Li, Tao Zhang, Mengheng Wang, Zijun Huang, Yingbin Zhang, Zhaochun Ma, Luqian Huang, **Huaixiang Li**, Yubing Li*, Dedong He, Kang Cheng* and Yongming Luo*. 
-
-*Submitted to Coordination Chemistry Reviews*
-
-- **Research focus:** Methanol-centered pathways connecting H<sub>2</sub> storage, H<sub>2</sub> production, and CO<sub>2</sub>-to-hydrocarbon chemistry.
-- **Key idea:** Methanol can serve as a versatile C1 platform molecule that bridges hydrogen utilization and carbon-containing chemical production.
-- **Significance:** This review summarizes emerging strategies and opportunities for methanol-mediated sustainable energy and carbon conversion systems.
-
-</div>
-</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards

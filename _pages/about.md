@@ -27,7 +27,7 @@ My current work centers on the rational design of non-noble metal catalysts by r
 You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%20Li.pdf/). For academic discussions or potential research collaborations, please feel free to contact me by [email](mailto:huaixianglee@gmail.com).
 
 # 🔥 News
-
+- *2026.08*: &nbsp;Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation was accepted by *Catalysis Science & Technology*. 🎉
 - *2026.04*: &nbsp;Completed a first-author manuscript on boron-regulated Ni-based catalysts for propane dehydrogenation.
 - *2026.04*: &nbsp;Ga<sup>δ+</sup>–H Species Driven Reverse Water-Gas Shift Reaction over Ga/Al<sub>2</sub>O<sub>3</sub> Catalysts was accepted by *Chemical Engineering Journal*.🎉
 
@@ -38,19 +38,23 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 <div class='paper-box-image'>
 <div>
 <div class="badge">Accept</div>
-<a href="/publications/ni-b-pdh/">
+
+<a href="https://doi.org/10.1039/D6CY00466K" target="_blank">
 <img src='images/ni_b_pdh_toc.png' alt="Boron-regulated Ni-based catalyst for propane dehydrogenation" width="100%">
 </a>
+
 </div>
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-[Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation](https://doi.org/10.1039/d6cy00466k)
+<a href="https://doi.org/10.1039/D6CY00466K" target="_blank">
+Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation
+</a>
 
 **Huaixiang Li**, Tao Zhang, Zhenzhong Tao, Yulai Lin, Siling Zhou, Hao Wang*, Yubing Li*, Dedong He, and Yongming Luo.
 
-*Accept by Catalysis Science & Technology*
+*Accepted by Catalysis Science & Technology*
 
 - **Research focus:** Stabilization of highly dispersed Ni species for propane dehydrogenation.
 - **Key idea:** Boron regulation modulates the electronic and geometric environment of Ni sites, improving propylene selectivity and suppressing carbon deposition.
@@ -58,7 +62,6 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 
 </div>
 </div>
-
 
 <div class='paper-box'>
 <div class='paper-box-image'>

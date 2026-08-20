@@ -97,7 +97,6 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 - *2025*, **Third Prize**, The 8th National University Students’ Chemical Engineering Experiment Competition, Southwest China Division.
 - *2025*, **Third Prize**, The 4th Yunnan Provincial University Students’ Energy Conservation & Emission Reduction Competition.
 - *2024*, **Third Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, Yunnan Provincial Division.
-- *2025*, **First-class Scholarship**, Kunming University of Science and Technology.（Top 1%）
 
 # 📖 Educations
 

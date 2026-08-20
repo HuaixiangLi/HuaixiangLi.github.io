@@ -46,7 +46,7 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 
 <div class='paper-box-text' markdown="1">
 
-[Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation](/publications/ni-b-pdh/)
+[Boron-Regulated Ni-Based Catalysts for Stable and Selective Propane Dehydrogenation](https://doi.org/10.1039/d6cy00466k)
 
 **Huaixiang Li**, Tao Zhang, Zhenzhong Tao, Yulai Lin, Siling Zhou, Hao Wang*, Yubing Li*, Dedong He, and Yongming Luo.
 

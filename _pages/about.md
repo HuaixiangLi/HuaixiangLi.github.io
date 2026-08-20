@@ -37,7 +37,7 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Under Revision</div>
+<div class="badge">Accept</div>
 <a href="/publications/ni-b-pdh/">
 <img src='images/ni_b_pdh_toc.png' alt="Boron-regulated Ni-based catalyst for propane dehydrogenation" width="100%">
 </a>
@@ -50,7 +50,7 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 
 **Huaixiang Li**, Tao Zhang, Zhenzhong Tao, Yulai Lin, Siling Zhou, Hao Wang*, Yubing Li*, Dedong He, and Yongming Luo.
 
-*Manuscript under revision*
+*Accept by Catalysis Science & Technology*
 
 - **Research focus:** Stabilization of highly dispersed Ni species for propane dehydrogenation.
 - **Key idea:** Boron regulation modulates the electronic and geometric environment of Ni sites, improving propylene selectivity and suppressing carbon deposition.
@@ -88,6 +88,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+- *2026*, **National Second Prize**, “Tianzheng Design Cup” the 20th National College Students Chemical Engineering Design Competition.
 - *2026*, **Excellent Poster Award**, The 13th National Symposium on Catalyst Preparation Science and Technology.
 - *2026*, **Provincial “Five Merits” Student**, Yunnan Province.（Top 1%）
 - *2025*, **Third Prize**, The 8th National University Students’ Chemical Engineering Experiment Competition, Southwest China Division.

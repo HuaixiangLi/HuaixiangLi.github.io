@@ -118,7 +118,7 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2026*, **Provincial Government Scholarship**.（Top 1%）
-- *2026*, **National Second Prize**, “Tianzheng Design Cup” the 20th National College Students Chemical Engineering Design Competition.（Top 1%）
+- *2026*, **National Second Prize**, “Tianzheng Design Cup” the 20th National College Students Chemical Engineering Design Competition.
 - *2026*, **Excellent Poster Award**, The 13th National Symposium on Catalyst Preparation Science and Technology.
 - *2026*, **Provincial “Five Merits” Student**, Yunnan Province.（Top 1%）
 - *2025*, **Third Prize**, The 8th National University Students’ Chemical Engineering Experiment Competition, Southwest China Division.

@@ -55,7 +55,6 @@ Tao Zhang, Dedong He, Zijun Huang, **Huaixiang Li**, Jun Liang, Jiaming Dong, We
 *Submitted to Nature Catalysis (2026).*
 
 - **Research focus:** Interfacial regulation of lattice oxygen for coke- and sulfur-resistant dry reforming of methane.
-- **My contribution:** Catalytic evaluation, physicochemical characterization, data analysis, and mechanistic interpretation of coke and sulfur resistance.
 - **Key idea:** Ce–O–Ni interfacial sites stabilize electron-deficient Ni species and regulate lattice-oxygen release, suppressing coke formation. CO₂-derived formate intermediates facilitate sulfur removal through a sulfite-to-SO₂ pathway.
 - **Significance:** This work establishes an interfacial oxygen-regulation strategy for enhancing catalyst durability under coke- and sulfur-inducing DRM conditions, achieving a low deactivation constant (k<sub>d</sub> = 0.0016 h<sup>−1</sup>).
 

@@ -37,6 +37,33 @@ You can find my CV here: [Huaixiang Li's Curriculum Vitae](/files/CV-Huaixiang%2
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">Submitted</div>
+
+<img src='images/ce_o_ni_drm_toc.png'
+     alt="Ce–O–Ni interfacial catalyst for coke- and sulfur-resistant dry reforming of methane"
+     width="100%">
+
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+Controlled Lattice-Oxygen Release at Ce–O–Ni Interfaces Enables Coke and Sulfur Resistance in Dry Reforming of Methane
+
+Tao Zhang, Dedong He, Zijun Huang, **Huaixiang Li**, Jun Liang, Jiaming Dong, Wei Zhou, Yubing Li, and Yongming Luo.
+
+*Submitted to Nature Catalysis (2026).*
+
+- **Research focus:** Interfacial regulation of lattice oxygen for coke- and sulfur-resistant dry reforming of methane.
+- **My contribution:** Catalytic evaluation, physicochemical characterization, data analysis, and mechanistic interpretation of coke and sulfur resistance.
+- **Key idea:** Ce–O–Ni interfacial sites stabilize electron-deficient Ni species and regulate lattice-oxygen release, suppressing coke formation. CO₂-derived formate intermediates facilitate sulfur removal through a sulfite-to-SO₂ pathway.
+- **Significance:** This work establishes an interfacial oxygen-regulation strategy for enhancing catalyst durability under coke- and sulfur-inducing DRM conditions, achieving a low deactivation constant (k<sub>d</sub> = 0.0016 h<sup>−1</sup>).
+
+</div>
+</div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">Accept</div>
 
 <a href="https://doi.org/10.1039/D6CY00466K" target="_blank">
@@ -91,7 +118,8 @@ Zhenzhong Tao, **Huaixiang Li**, Dedong He, Zijun Huang*, Jun Liang, Jiaming Don
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2026*, **National Second Prize**, “Tianzheng Design Cup” the 20th National College Students Chemical Engineering Design Competition.
+- *2026*, **Provincial Government Scholarship**.（Top 1%）
+- *2026*, **National Second Prize**, “Tianzheng Design Cup” the 20th National College Students Chemical Engineering Design Competition.（Top 1%）
 - *2026*, **Excellent Poster Award**, The 13th National Symposium on Catalyst Preparation Science and Technology.
 - *2026*, **Provincial “Five Merits” Student**, Yunnan Province.（Top 1%）
 - *2025*, **Third Prize**, The 8th National University Students’ Chemical Engineering Experiment Competition, Southwest China Division.
